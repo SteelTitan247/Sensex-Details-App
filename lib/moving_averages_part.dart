@@ -3,7 +3,6 @@ import 'package:flutter_app_for_intern/widgets/button.dart';
 import 'package:flutter_app_for_intern/widgets/heading_bar.dart';
 import 'package:flutter_app_for_intern/widgets/info_columns.dart';
 import 'package:flutter_app_for_intern/widgets/new_table_row.dart';
-import 'package:flutter_app_for_intern/widgets/table_rows.dart';
 
 class MovingAveragesPart extends StatefulWidget {
   @override
